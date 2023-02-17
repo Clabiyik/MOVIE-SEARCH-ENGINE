@@ -1,2 +1,1 @@
-<iframe width="420" height="345" src="https://www.youtube.com/watch?v=rxADU6JAIjo">
-</iframe>
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
