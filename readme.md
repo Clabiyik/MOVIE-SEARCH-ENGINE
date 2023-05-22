@@ -1,4 +1,4 @@
-##MOVIE SEARCH ENGINE
+## IMAGE SEARCH ENGINE
 
 
 <div align="center">
